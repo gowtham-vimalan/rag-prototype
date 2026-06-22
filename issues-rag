@@ -1,0 +1,17 @@
+Question -> I just joined last week. Can I take annual leave and work from home?"
+
+What the context contained (retrieved chunks):
+Leave policy: New employees are eligible to take annual leave after completing their probation period of 3 months
+
+Remote work policy: All full-time employees who have completed their probation period are eligible for remote work
+
+should return both no -> failed initially with yes and no
+---------- Fixed this by updating the prompt
+
+-------------------------------------------------
+
+Question -> List every dollar amount mentioned across all company policies.
+
+Hallucinating, and there are some gaps
+
+

@@ -1,0 +1,27 @@
+REMOTE WORK POLICY
+Effective Date: March 1, 2025
+Last Updated: May 15, 2025
+
+1. ELIGIBILITY
+All full-time employees who have completed their probation period are eligible for remote work. Contractors and part-time employees may be eligible at the discretion of their department head. Certain roles that require physical presence (e.g., facilities, on-site IT support) are exempt from this policy.
+
+2. HYBRID WORK MODEL
+The company follows a hybrid work model. Employees are required to work from the office a minimum of 2 days per week (Tuesday and Thursday are designated in-office days). The remaining 3 days may be worked remotely. Employees may request a fully remote arrangement under special circumstances, subject to VP-level approval.
+
+3. WORK HOURS AND AVAILABILITY
+Remote employees must be available during core business hours from 10:00 AM to 4:00 PM in their local time zone. Employees are expected to respond to messages within 30 minutes during core hours. Flexible scheduling outside core hours is permitted with manager approval. All meetings should be scheduled during core hours whenever possible.
+
+4. EQUIPMENT AND WORKSPACE
+The company provides a one-time home office setup allowance of $500 for new remote workers. Employees are responsible for maintaining a secure, ergonomic, and distraction-free workspace. Company-issued laptops must be used for all work-related activities. Personal devices may not be used to access company systems without prior IT approval. Hardware purchased under the home office setup allowance does not require separate IT approval under the Expense Reimbursement Policy.
+
+5. SECURITY AND DATA PROTECTION
+Employees must use the company VPN when accessing internal systems remotely. Multi-factor authentication (MFA) is required for all remote access. Confidential documents must not be printed at home without written approval from the data security team. Employees must ensure their home Wi-Fi network is password-protected and uses WPA3 encryption.
+
+6. COMMUNICATION AND COLLABORATION
+Slack is the primary communication tool for day-to-day messaging. Zoom is the standard platform for video meetings. All remote employees must have their camera on during team meetings unless bandwidth issues prevent it. Weekly team stand-ups are mandatory and must be attended either in person or virtually.
+
+7. PERFORMANCE AND ACCOUNTABILITY
+Remote work does not change performance expectations. Managers will evaluate remote employees using the same criteria as in-office employees. Employees must update their task status in Jira daily. Monthly one-on-one meetings with direct managers are required for all remote employees.
+
+8. INTERNATIONAL REMOTE WORK
+Employees may request to work from a different country for up to 30 days per year. International remote work requires advance approval from HR, Legal, and Tax departments. The employee is responsible for ensuring they have legal authorization to work in the chosen country. Time zone differences of more than 4 hours from the primary office may result in adjusted core hours.

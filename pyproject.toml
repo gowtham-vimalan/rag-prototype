@@ -1,0 +1,13 @@
+[project]
+name = "rag-vector-search"
+version = "0.1.0"
+description = "RAG-based company policy Q&A chatbot using ChromaDB and GitHub Models"
+requires-python = ">=3.11"
+dependencies = [
+    "chromadb>=1.0.0",
+    "openai>=1.30.0",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.45.0",
+    "pypdf>=5.0.0",
+    "sentence-transformers>=3.0.0",
+]
