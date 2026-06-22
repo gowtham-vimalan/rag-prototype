@@ -49,7 +49,7 @@ def grade_documents(state: AgentState) -> dict:
                     "Only mark irrelevant if the document is completely unrelated. "
                     "Respond with JSON: {\"relevant\": true} or {\"relevant\": false}"
                 )},
-                {"role": "user", "content": f"Question: {query}\n\nDocument: {doc['text'][:500]}"},
+                {"role": "user", "content": f"Question: {query}\n\nDocument: {doc['text'][:2000]}"},
             ],
             temperature=0,
         )

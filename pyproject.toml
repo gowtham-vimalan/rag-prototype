@@ -14,8 +14,3 @@ dependencies = [
     "langchain-core>=0.3.0",
     "torchvision>=0.27.1",
 ]
-
-[dependency-groups]
-dev = [
-    "fpdf2>=2.8.7",
-]
